@@ -16,14 +16,14 @@
 🚀 Motivated to grow as a Software Developer and contribute to impactful projects.
 
 ---
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-- Java
-- C
-- C++
-
+---
+## 🚀 Skills & Technologies
+- **Programming Languages:** C, C++  
+- **Data Structures & Algorithms (DSA):** Strong foundation with C  
+- **Scripting & Development:** Python, HTML  
+- **Currently Working On:** Core Java  
+---
+---
 ### Core Java
 - Object-Oriented Programming (OOP)
 - Exception Handling
@@ -32,22 +32,21 @@
 - File Handling
 - Java I/O
 - String Manipulation
-
+---
+---
 ### Computer Science Fundamentals
 - Data Structures & Algorithms
 - Database Management Systems (DBMS)
 - Operating Systems
 - Computer Networks
+--- 
 
 ### Tools & Technologies
 - Git
 - GitHub
 - VS Code
-- IntelliJ IDEA
-- Eclipse
-
 ---
-
+---
 ## 🌱 Currently Learning
 
 - Advanced Java
@@ -56,7 +55,7 @@
 - Design Patterns
 - Software Engineering Concepts
 - Problem Solving & DSA
-
+---
 ---
 
 ## 🎯 Career Goal
@@ -64,12 +63,13 @@
 To become a skilled Software Engineer by continuously enhancing my programming knowledge, developing real-world projects, and embracing new technologies.
 
 ---
+---
 
-## 📈 GitHub Stats
+## 🌐 Connect with Me
+- GitHub: [Panchal2305](https://github.com/Panchal2305)  
+- LinkedIn: https://www.linkedin.com/in/palak-panchal-679649338 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
+---
 
 ---
 
