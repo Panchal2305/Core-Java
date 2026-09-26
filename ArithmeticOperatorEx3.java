@@ -10,7 +10,6 @@ public class ArithmeticOperatorEx3 {
 	}
 }
 //Precedence
-
 //()
 //*/%
 //+-
