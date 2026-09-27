@@ -12,5 +12,4 @@ public class FunctionEx {
 	static void show() { //Function Declaration
 		System.out.println("Hello Universal");
 	}
-	
 }
