@@ -18,5 +18,4 @@ public class BitwiseOperator {
 		
 //		System.out.println(2.5|1.4); //Error
 	}
-
 }
