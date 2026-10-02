@@ -26,5 +26,4 @@ public class IfElseIfEx1 {
 		
 		System.out.println("Thanks for using APP");
 	}
-
 }
