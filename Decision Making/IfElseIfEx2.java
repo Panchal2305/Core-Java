@@ -22,5 +22,4 @@ public class IfElseIfEx2 {
 		}
 		System.out.println("Thanks for using APP");
 	}
-
 }
