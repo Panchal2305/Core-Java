@@ -21,5 +21,4 @@ public class Greater2No {
 		
 		sc.close();
 	}
-
 }
