@@ -47,6 +47,5 @@ public class ClassObjectEx1 {
 		
 		int total=a.salary+b.salary+c.salary+d.salary;
 		System.out.println("Total Salary: "+total);
-		
 	}
 }
