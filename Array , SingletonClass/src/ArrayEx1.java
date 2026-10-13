@@ -29,6 +29,5 @@ public class ArrayEx1 {
 		for(int x:a) { 
 			System.out.println(x);
 		}
-		
 	}
 }
