@@ -24,5 +24,4 @@ public class CollectionsEx10 {
 			System.out.println(o);
 		}
 	}
-
 }
