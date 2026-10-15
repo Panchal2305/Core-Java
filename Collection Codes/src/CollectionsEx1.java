@@ -1,7 +1,4 @@
 import java.util.*;
-
-
-
 public class CollectionsEx1 {
 
 	public static void main(String[] args) {
@@ -18,5 +15,4 @@ public class CollectionsEx1 {
 			System.out.println(o);
 		}
 	}
-
 }
