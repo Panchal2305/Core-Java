@@ -45,9 +45,6 @@ public class StaticMethodEx {
 
 
 
-
-
-
 //N.S.Variables-oBJECT
 //S.Variables-Class Load
 //
