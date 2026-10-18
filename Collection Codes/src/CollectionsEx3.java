@@ -26,5 +26,4 @@ public class CollectionsEx3 {
 			System.out.println(o);
 		}
 	}
-
 }
