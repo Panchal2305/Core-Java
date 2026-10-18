@@ -22,9 +22,6 @@ public class CollectionsEx6 {
 		Double d=(Double)a.get(2);
 		System.out.println(d);
 		
-
-		
-		
 		System.out.println(a);
 		a.remove(2);//remove a/c index
 		//a.remove(12);//IndexOutOfBoundsException
