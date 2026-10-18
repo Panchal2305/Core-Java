@@ -31,5 +31,4 @@ public class CollectionsEx4 {
 		System.out.println(a.isEmpty());
 		System.out.println(a.size());
 	}
-
 }
