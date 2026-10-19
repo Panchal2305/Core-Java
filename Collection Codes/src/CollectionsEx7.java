@@ -24,5 +24,4 @@ public class CollectionsEx7 {
 		}
 		System.out.println(a);
 	}
-
 }
