@@ -32,5 +32,4 @@ public class CollectionsEx8 {
 			System.out.println(i.next());
 		}
 	}
-
 }
