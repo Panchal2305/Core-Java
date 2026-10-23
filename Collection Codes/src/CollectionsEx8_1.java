@@ -33,5 +33,4 @@ public class CollectionsEx8_1 {
 			System.out.println(f);
 		}
 	}
-
 }
