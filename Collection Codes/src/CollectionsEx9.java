@@ -40,5 +40,4 @@ public class CollectionsEx9 {
 			System.out.println(a.get(i3.next()));
 		}
 	}
-
 }
