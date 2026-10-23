@@ -27,5 +27,4 @@ public class CollectionsEx8_2 {
 			System.out.println(f);
 		}
 	}
-
 }
