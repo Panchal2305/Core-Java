@@ -22,5 +22,4 @@ public class ConstructorEx2 {
 		a2.show();
 		a3.show();
 	}
-
 }
