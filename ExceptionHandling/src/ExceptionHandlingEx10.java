@@ -18,5 +18,4 @@ public class ExceptionHandlingEx10 {
 			System.out.println(ex);
 		}
 	}
-
 }
