@@ -20,5 +20,4 @@ public class ExceptionHandlingEx11 {
 		}
 		System.out.println("Bye");
 	}
-
 }
