@@ -33,6 +33,5 @@ public class ExceptionHandlingEx14{
 			System.out.println(e);
 		}
 		System.out.println("Bye");
-		
 	}
 }
