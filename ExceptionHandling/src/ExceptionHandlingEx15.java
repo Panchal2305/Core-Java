@@ -9,5 +9,4 @@ public class ExceptionHandlingEx15 {
 			System.out.println("File nahi mila re");
 		}
 	}
-
 }
