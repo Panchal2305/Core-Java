@@ -20,5 +20,4 @@ public class NestedIfElseEx1 {
 		
 		sc.close();
 	}
-
 }
