@@ -30,5 +30,4 @@ public class NestedIfElseEx3 {
 		
 		System.out.println("Thanks for using APP");
 	}
-
 }
