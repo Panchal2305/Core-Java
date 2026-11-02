@@ -23,5 +23,4 @@ public class ExceptionHandlingEx3 {
 		}
 		System.out.println("Bye");
 	}
-
 }
