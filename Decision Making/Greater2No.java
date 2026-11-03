@@ -16,7 +16,6 @@ public class Greater2No {
 				System.out.println(b+" is Greater.");
 			
 		
-		
 		System.out.println("Thanks for using APP");
 		
 		sc.close();
