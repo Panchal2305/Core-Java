@@ -15,7 +15,6 @@ public class NestedIfElseEx2 {
 		}else {
 			System.out.println(b+" is greatest");
 		}
-		
 		System.out.println("Thanks for using APP");
 		
 		sc.close();
