@@ -27,5 +27,4 @@ public class StringEx1 {
 		//System.out.println(n[2]);//error
 		System.out.println(n.charAt(2));
 	}
-
 }
